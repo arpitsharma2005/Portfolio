@@ -39,7 +39,7 @@ export default function Hero({ darkMode }) {
           </a>
 
           <a
-            href="https://github.com"
+            href="https://github.com/arpitsharma2005"
             target="_blank"
             className="px-8 py-4 border border-sky-400 text-sky-500 rounded-2xl hover:bg-sky-100 hover:text-black transition-all duration-300"
           >
