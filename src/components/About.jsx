@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profile from "../assets/car.jpg";
+import profile from "../assets/profile.jpg";
 
 export default function About({ darkMode }) {
   return (
