@@ -9,7 +9,7 @@ export default function Navbar({ darkMode }) {
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <h1 className="text-3xl font-black text-sky-500">
-          Arpit.dev
+          Arpit Sharma 
         </h1>
 
         <div className="hidden md:flex gap-8 font-medium">
